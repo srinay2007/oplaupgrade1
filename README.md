@@ -1,2 +1,2 @@
 # OPLA Upgrade Project
-Data Engineering project for upgrade of Oracle Agile PLM Analytics solution upgrade and optimization for a Global Semiconductor company
+This is a Data Engineering project executed for Global Semiconductor company for the upgrade of OPLA (Oracle Product Lifecycle Analytics) solution and optimization of ETL Load Performance.
